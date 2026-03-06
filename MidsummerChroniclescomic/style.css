@@ -1,5 +1,18 @@
 * {
   box-sizing: border-box;
+   background-color: rgba(249, 220, 204, 0.93);
+}
+
+body {
+  color: rgb(82, 42, 75);
+}
+
+h1 {
+  color:rgb(82, 42, 75);
+}
+
+h2 {
+  color: rgb(82, 42, 75);
 }
 
 img {
@@ -33,7 +46,7 @@ img {
   width: auto;
   padding: 16px;
   margin-top: 400px;
-  color: rgb(255, 0, 0);
+  color: rgb(82, 42, 75);
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
